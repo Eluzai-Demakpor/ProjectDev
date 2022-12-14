@@ -32,3 +32,12 @@
     left: 0;
     opacity: 0.7;
 }
+
+.service-session {
+    background-color: rgb(229, 238, 238);
+}
+
+.service-session h4:hover {
+    color: lightskyblue;
+    transition: 0.5s;
+}
