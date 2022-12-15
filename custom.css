@@ -41,3 +41,14 @@
     color: lightskyblue;
     transition: 0.5s;
 }
+
+hr {
+    width: 3rem;
+    height: 10px;
+    border-top: 7px solid forestgreen;
+    background-color: forestgreen;
+}
+
+.pricing .card {
+    box-shadow: 0 0 20px 15px rgba(0, 0, 0, 0.1);
+}
