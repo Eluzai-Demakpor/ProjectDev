@@ -52,3 +52,8 @@ hr {
 .pricing .card {
     box-shadow: 0 0 20px 15px rgba(0, 0, 0, 0.1);
 }
+
+.cap div {
+    border-radius: 5px;
+    border: none;
+}
